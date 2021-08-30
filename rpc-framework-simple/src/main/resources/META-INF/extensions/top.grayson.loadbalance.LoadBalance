@@ -1,0 +1,1 @@
+loadBalance=top.grayson.loadbalance.loadbalancer.ConsistentHashLoadBalance

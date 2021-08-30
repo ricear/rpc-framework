@@ -1,0 +1,2 @@
+kryo=top.grayson.serialize.kryo.KryoSerializer
+protostuff=top.grayson.serialize.protostuff.ProtostuffSerializer
